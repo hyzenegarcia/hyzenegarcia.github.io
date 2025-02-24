@@ -1,0 +1,37 @@
+<!DDOCTYPE html>
+<html>
+<head>
+	<title>Lists and Links</title>
+</head>
+<body>
+	<h1>Lists and Links</h1>
+	<p><a href="#steps">
+	<ol>
+		<li>Chop potatoes into quaryers</li>
+		<li>Simmer in salted water for 15-20 minutes until tender</li>
+		<li>Heat and milk, butter and nutmeg
+		<li>Mix in the milk</li>
+	</ol>
+	<ul>
+		<li>1kg potatoees</li>
+		<li>100 mil</li>
+		<li>50 kg salted buttrer</li>
+	</ul>
+	
+	<dl>
+		<dt>Scale</dt>
+		<dd>A device use to accurately measure the weigjt of ingredients</d>
+	</dl>
+	<h2> id="ingredients">Steps</h2>
+	<ul>
+		<li>Mouses</li>
+		<li>pastries
+			<ul>
+				<li><a href="https://www.merriam-webster.com/dictionary/croissant"> target="_blank"Croissant"</li>
+				<li>Millie-feuille</li>
+				<li>palmier</li>
+			</ul>
+		</li>
+		<li>tarts</li> 
+</body>
+</html>

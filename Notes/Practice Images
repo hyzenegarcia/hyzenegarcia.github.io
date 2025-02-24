@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+</head>
+
+<body>
+	<h1>Dug</h1>
+	<p>funny dog</p>
+	<img src="images/dug-up.webp" alt="a chinchilla" width="200px"/>  
+	<hr>
+	<figure>
+		<img src="images/Chinchillahungry.jpg" alt=" an chinchilla eating grasss" width="200px"/>
+		<figcaption>Gluttnous chinchilla devoure inocent fruit.</figcaption>
+	</figure>
+	<hr>
+	<p> Lebron is the goat</p>
+	<img src="Images/LebronDunking.jpg" alt=" Lebron Dunking the ball"/>
+	
+</body>
+
+</html>
