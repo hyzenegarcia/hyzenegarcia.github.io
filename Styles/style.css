@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF=8"> 
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Home</title>
+	<link href="styles/style.css" type="text/css" rels="styleshoot" />
+</head>
+<body>
+	<header>
+		<h1>Hyzene Garcia</h1>
+		<nav>	
+			<ul>
+				<li><a href="#Favorites">Favorites</a></li>
+				<li><a href="#WeeklySchedule">Weekly Schedule</a></li>
+				<li><a href="#DreamVacation">Vacation</a></li>
+				<li><a href="#SchoolSchedule">School Schedule</a></li>
+			</ul>
+		</nav>
+	</header>
+
+	<main>
+		<section>
+			<h2 id="Favorites">Favorites</h2>
+			<p><a href="favorites.html">Click here to see my favorites</a></p>
+		</section>
+
+		<section>
+			<h2 id="WeeklySchedule">My Busy Weekly Schedule</h2>
+			<p><a href="WeeklySchedule.html">Click here to see my busy weekly scheudle from Monday to Sunday</a></p>
+		</section>
+		
+		<section>
+			<h2 id="DreamVacation"> My Dream Vacation</h2>
+			<p><a href="DreamVacation.html"</p>
+		</section>
+	</main>
+
+	<footer>
+		<p>&copy; 2025 Hyzene Garcia</p>
+	</footer>
+	
+</body>
+
+</html>
+
+<style>
+
+</style>
+
+ 
+
